@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Fibonacci;
 
 public class Practice {
     public static void main(String args[]) {
