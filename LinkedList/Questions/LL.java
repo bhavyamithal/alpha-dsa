@@ -1,7 +1,5 @@
 package LinkedList.Questions;
 
-import Recursion.Backtracking.nKnights;
-
 public class LL {
 
     private int size;
